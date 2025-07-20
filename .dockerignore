@@ -1,0 +1,7 @@
+# Ignorer les dossiers de build et de dépendances
+**/bin
+**/obj
+
+# Ignorer les fichiers liés à git
+.git
+.gitignore
